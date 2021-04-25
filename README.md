@@ -1,0 +1,2 @@
+# dev
+repositoria para ThrumanStore
